@@ -1,0 +1,7 @@
+server:
+  port: 6660
+
+database:
+  username: openceptor
+  password: openceptor
+  database: openceptor
